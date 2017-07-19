@@ -5248,17 +5248,17 @@ a.thumbnail:focus {
 }
 
 .list-group {
-  padding-left: 0;
-  margin-bottom: 20px;
+    padding-left: 0;
+    margin-bottom: 20px;
 }
 
 .list-group-item {
-  position: relative;
-  display: block;
-  padding: 10px 15px;
-  margin-bottom: -1px;
-  background-color: #ffffff;
-  border: 1px solid #dddddd;
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
 }
 
 .list-group-item:first-child {
